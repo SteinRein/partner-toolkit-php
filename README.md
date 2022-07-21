@@ -1,1 +1,3 @@
-[READ ONLY] Subtree split of the SteinRein Partner Toolkit (see (SteinRein/partner-toolkit)[https://github.com/SteinRein/partner-toolkit])
+## Partner Toolkit PHP
+
+[READ ONLY] Subtree split of the SteinRein Partner Toolkit (see [SteinRein/partner-toolkit](https://github.com/SteinRein/partner-toolkit))
